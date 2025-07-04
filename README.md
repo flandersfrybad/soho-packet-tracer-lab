@@ -1,16 +1,12 @@
 # soho-packet-tracer-lab
 
+[![Watch on TikTok](https://img.shields.io/badge/TikTok-Demo-black?logo=tiktok&logoColor=white&style=for-the-badge)](https://www.tiktok.com/@herrotarrow/video/7522971356372290847)
+
 ## 🤝 Let's Connect
 
 - 📫 [LinkedIn](https://www.linkedin.com/in/lannertfayad)
 - 🔗 [GitHub](https://github.com/flandersfrybad)
 - 🧢 [TikTok](https://www.tiktok.com/@herrotarrow/)
-- [![Watch on TikTok](https://img.shields.io/badge/TikTok-Demo-black?logo=tiktok&logoColor=white&style=for-the-badge)](https://www.tiktok.com/@herrotarrow/video/7522971356372290847)
-- ## 📹 Demo
-
-[![Watch on TikTok](https://img.shields.io/badge/TikTok-Demo-black?logo=tiktok&logoColor=white&style=for-the-badge)](https://www.tiktok.com/@herrotarrow/video/7522971356372290847)
-
-
 
 🏡 Simple SOHO Network – Cisco Packet Tracer
 
