@@ -2,13 +2,13 @@
 
 🔍 Preview
 
-[![Watch on TikTok](https://img.shields.io/badge/TikTok-Demo-black?logo=tiktok&logoColor=white&style=for-the-badge)](https://www.tiktok.com/@herrotarrow/video/7522971356372290847)
+- 🧢 [TikTok Demo](https://www.tiktok.com/@herrotarrow/video/7522971356372290847)
 
 🤝 Let's Connect
 
 - 📫 [LinkedIn](https://www.linkedin.com/in/lannertfayad)
 - 🔗 [GitHub](https://github.com/flandersfrybad)
-- 🧢 [TikTok Demo](https://www.tiktok.com/@herrotarrow/video/7522971356372290847)
+- 🧢 [TikTok](https://www.tiktok.com/@herrotarrow)
 
 🏡 Simple SOHO Network – Cisco Packet Tracer
 
