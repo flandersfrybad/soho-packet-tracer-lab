@@ -1,5 +1,7 @@
 # soho-packet-tracer-lab
 
+🔍 Preview
+
 [![Watch on TikTok](https://img.shields.io/badge/TikTok-Demo-black?logo=tiktok&logoColor=white&style=for-the-badge)](https://www.tiktok.com/@herrotarrow/video/7522971356372290847)
 
 ## 🤝 Let's Connect
