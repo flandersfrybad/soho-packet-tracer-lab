@@ -4,9 +4,9 @@
 
 ## 🤝 Let's Connect
 
-- 📫 [LinkedIn](https://www.linkedin.com/in/lannertfayad)
-- 🔗 [GitHub](https://github.com/flandersfrybad)
-- 🧢 [TikTok](https://www.tiktok.com/@herrotarrow/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/flandersfrybad)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/lannertfayad)
+[![TikTok](https://img.shields.io/badge/TikTok-Video-black?logo=tiktok&logoColor=white&style=for-the-badge)](https://www.tiktok.com/@herrotarrow/video/7522971356372290847)
 
 🏡 Simple SOHO Network – Cisco Packet Tracer
 
