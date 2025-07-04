@@ -3,7 +3,8 @@
 🔍 Preview
 
 - 🧢 [TikTok Demo](https://www.tiktok.com/@herrotarrow/video/7522971356372290847)
-
+- 📫 [LinkedIn Demo](https://www.tiktok.com/@herrotarrow/video/7522971356372290847)
+  
 🤝 Let's Connect
 
 - 📫 [LinkedIn](https://www.linkedin.com/in/lannertfayad)
