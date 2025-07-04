@@ -1,4 +1,5 @@
 # soho-packet-tracer-lab
+https://www.tiktok.com/@herrotarrow/video/7522971356372290847?is_from_webapp=1&sender_device=pc&web_id=7467761412133291563
 🏡 Simple SOHO Network – Cisco Packet Tracer
 
     A beginner Packet Tracer lab demonstrating a Small Office/Home Office (SOHO) network topology with static IPs and basic connectivity using ping.
