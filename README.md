@@ -4,7 +4,7 @@
 
 [![Watch on TikTok](https://img.shields.io/badge/TikTok-Demo-black?logo=tiktok&logoColor=white&style=for-the-badge)](https://www.tiktok.com/@herrotarrow/video/7522971356372290847)
 
-# 🤝 Let's Connect
+🤝 Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/flandersfrybad)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/lannertfayad)
