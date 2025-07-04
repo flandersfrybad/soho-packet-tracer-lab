@@ -4,7 +4,7 @@
 
 - 📫 [LinkedIn](https://www.linkedin.com/in/lannertfayad)
 - 🔗 [GitHub](https://github.com/flandersfrybad)
-- 🧢 [TikTok]-(https://www.tiktok.com/@herrotarrow/video/7522971356372290847)
+- 🧢 [TikTok](https://www.tiktok.com/@herrotarrow/video/7522971356372290847)
 
 🏡 Simple SOHO Network – Cisco Packet Tracer
 
